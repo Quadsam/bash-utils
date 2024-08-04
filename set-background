@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+feh --no-fehbg --bg-scale '/home/quadsam/Documents/PCBackground.jpg'
