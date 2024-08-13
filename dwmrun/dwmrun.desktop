@@ -1,8 +1,0 @@
-#/usr/share/xsessions/dwmrun.desktop
-[Desktop Entry]
-Encoding=UTF-8
-Name=dwmrun
-Comment=Dynamic window manager
-Exec=/usr/local/bin/dwmrun
-Icon=dwm
-Type=XSession
