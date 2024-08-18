@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source '/opt/bash-lib/stdlib.sh'
+source './bash-lib/stdlib.sh'
 
 ## Defaults
 shellcheck_def_args=('-x')
